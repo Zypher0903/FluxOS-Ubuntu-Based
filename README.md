@@ -1,7 +1,5 @@
 # FluxOS  Ultra-Modern Ubuntu-Based Desktop OS
 
-<img src="https://raw.githubusercontent.com/Zypher0903/FluxOS/main/assets/banner.png" alt="FluxOS Banner" width="100%"/>
-
 > **The most beautiful, fastest and truly modern Linux desktop in 2025.**  
 > Built on rock-solid Ubuntu 24.04 LTS • Powered by Hyprland • Designed in Serbia
 
