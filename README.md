@@ -42,41 +42,6 @@ chmod +x build-fluxos.sh
 Keybindings Cheat Sheet
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 KeyActionSuper + EnterKitty terminalSuper + DApp launcher (Wofi)Super + QClose windowSuper + BFirefoxSuper + EThunar file managerSuper + LLock screenPrintScreenshot (select area)
 Contributing
 PRs welcome! Especially:
