@@ -137,40 +137,6 @@ Internet: Fast connection recommended
 
 Roadmap
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 VersionFeaturesStatus1.0Stable live + installable ISOIn Progress1.1Persistence support on USBPlanned1.2Flatpak + Distrobox pre-configuredPlanned2.0FluxOS Dark & Light themesPlanned3.0AUR-like repository + GUI package managerDream
 Contributing
 All contributions are welcome! Especially from Balkan developers:
